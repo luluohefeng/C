@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//获取n!的位数(本行用于测试Git)
 void num_lenth(int n, int *length) {
     *length = 1;
     for (int i = 2; i <= n; i++) {
